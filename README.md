@@ -15,9 +15,14 @@ to alter the imported items using the [Zotero Web API](https://www.zotero.org/su
 prompted this project was the need to import a few hundred unformatted
 citations, typed in a Word document, into Zotero. 
 
+## Sample import
+
 A sample import of twelve records organized under headers can be seen in
-the [anystyle-demo library](https://www.zotero.org/groups/4734751/anystyle-demo/library). Within a [sample record](https://www.zotero.org/groups/4734751/anystyle-demo/collections/GAC5PBHA/items/PTGEXRXF/collection), the 
-```Extra``` field (scroll to the bottom of the record) contains the source
+the [anystyle-demo library](https://www.zotero.org/groups/4734751/anystyle-demo/library). The source file is included in [```sample/sample.txt```](https://raw.githubusercontent.com/pbinkley/anystyle-demo/main/sample/sample.txt),
+and the JSON output file is in [```output/sample.json```](https://raw.githubusercontent.com/pbinkley/anystyle-demo/main/output/sample.json).
+
+Within a [sample record](https://www.zotero.org/groups/4734751/anystyle-demo/collections/GAC5PBHA/items/PTGEXRXF/collection), the 
+```Extra``` field (scroll to the bottom of the Zotero record) contains the source
 citation, for consultation during correction. The field also contains
 the heading(s) under which the item will be moved.
 
