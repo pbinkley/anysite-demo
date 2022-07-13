@@ -19,7 +19,8 @@ citations, typed in a Word document, into Zotero.
 
 A sample import of twelve records organized under headers can be seen in
 the [anystyle-demo library](https://www.zotero.org/groups/4734751/anystyle-demo/library). The source file is included in [```sample/sample.txt```](https://raw.githubusercontent.com/pbinkley/anystyle-demo/main/sample/sample.txt),
-and the JSON output file is in [```output/sample.json```](https://raw.githubusercontent.com/pbinkley/anystyle-demo/main/output/sample.json).
+and the JSON output file is in [```output/sample.json```](https://raw.githubusercontent.com/pbinkley/anystyle-demo/main/output/sample.json). You will notice that
+the import is not perfect.
 
 Within a [sample record](https://www.zotero.org/groups/4734751/anystyle-demo/collections/GAC5PBHA/items/PTGEXRXF/collection), the 
 ```Extra``` field (scroll to the bottom of the Zotero record) contains the source
